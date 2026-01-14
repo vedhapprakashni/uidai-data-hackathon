@@ -77,7 +77,7 @@ This project analyzes Aadhaar enrollment data at multiple geographic levels (pin
 
 ## 📁 Project Structure
 
-```
+
 uidai-hackathon/
 │
 ├── uidai_hackathon.py          # Main analysis script
@@ -100,7 +100,7 @@ uidai-hackathon/
     ├── pincode_with_clusters.csv
     ├── enrollment_deserts.csv
     └── critical_deserts.csv
-```
+
 
 ## 🚀 Getting Started
 
