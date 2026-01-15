@@ -75,33 +75,6 @@ This project analyzes Aadhaar enrollment data at multiple geographic levels (pin
 - State-wise desert analysis
 - Priority intervention area identification
 
-## 📁 Project Structure
-
-
-uidai-hackathon/
-│
-├── uidai_hackathon.py          # Main analysis script
-├── README.md                    # This file
-│
-├── data/                        # Input data (not included)
-│   ├── api_data_aadhar_enrolment_0_500000.csv
-│   └── api_data_aadhar_demographic_500000_1000000.csv
-│
-├── figures/                     # Generated visualizations
-│   ├── 01_enrollment_distributions.png
-│   ├── 02_enrollment_boxplot_by_state.png
-│   ├── ...
-│   └── 29_desert_sunburst_map.html
-│
-└── outputs/                     # Generated datasets
-    ├── pincode_aggregated.csv
-    ├── district_aggregated.csv
-    ├── state_aggregated.csv
-    ├── pincode_with_clusters.csv
-    ├── enrollment_deserts.csv
-    └── critical_deserts.csv
-
-
 ## 🚀 Getting Started
 
 ### Prerequisites
