@@ -68,6 +68,8 @@ This project analyzes Aadhaar enrollment data at multiple geographic levels (pin
 - **Hierarchical Clustering**: Dendrogram visualization
 - Cluster profiling and naming (e.g., "High Coverage Metro Areas", "Critical Gaps")
 
+### Phase 8:
+
 ### Phase 8: Enrollment Desert Identification
 - Multi-criteria desert definition
 - Desert Identification Index (DII) calculation
