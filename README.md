@@ -19,7 +19,7 @@ This project analyzes Aadhaar enrollment data at multiple geographic levels (pin
 
 ## 🛠️ Technologies Used
 
-- **Python 3.x**
+- **Python**
 - **Data Processing**: Pandas, NumPy
 - **Visualization**: Matplotlib, Seaborn, Plotly
 - **Machine Learning**: Scikit-learn
